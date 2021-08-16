@@ -1,0 +1,12 @@
+.svg-footer__icon__vk__dark {
+	background: url("iconSprite.svg") 0 0 no-repeat;
+	width: 31px;
+	height: 31px;
+}
+
+.svg-footer__icon__vk__light {
+	background: url("iconSprite.svg") 0 100% no-repeat;
+	width: 31px;
+	height: 31px;
+}
+

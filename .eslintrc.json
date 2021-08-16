@@ -1,0 +1,17 @@
+{
+    "parser": "babel-eslint",
+    "env": {
+        "es6": true
+    },
+    "rules": {
+        "no-var": "warn",
+        "semi": "warn",
+        "indent": "warn",
+        "no-multi-spaces": "warn",
+        "space-in-parens": "warn",
+        "no-multiple-empty-lines": "off",
+        "prefer-const": "warn",
+        "no-use-before-define": "warn"
+    }
+}
+
